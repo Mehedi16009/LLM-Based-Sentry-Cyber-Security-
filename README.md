@@ -20,7 +20,7 @@ Key features include:
 	•	AUC = 1.00, F1 = 1.00, and ASR = 0.004%, outperforming LlamaGuard-2 and OpenAI Moderation.
 
 ⸻
-
+## Datasets: [Link-1](https://huggingface.co/datasets/Spony/harmbench-dataset) and [Link-2](https://huggingface.co/datasets/JailbreakV-28K/JailBreakV-28k)
 ##🧠 Methodology Overview
 <img width="1303" height="900" alt="Methodology" src="https://github.com/user-attachments/assets/50ec4667-33ba-47a9-840c-fbf1d76f7be9" />
 
