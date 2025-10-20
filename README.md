@@ -1,10 +1,8 @@
-🔐 Sentra-Guard: A Multilingual Human-AI Framework for Real-Time Defense Against Adversarial LLM Jailbreaks
+#🔐 Sentra-Guard: A Multilingual Human-AI Framework for Real-Time Defense Against Adversarial LLM Jailbreaks
 
 📍 Submitted to IEEE Transactions on Dependable and Secure Computing (TDSC)
 
 👤 First Author: Md Mehedi Hasan
-
-⸻
 
 📄 Abstract
 
